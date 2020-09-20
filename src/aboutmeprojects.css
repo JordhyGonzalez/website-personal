@@ -1,0 +1,36 @@
+.containercol {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.containers {
+    background-color: lightgrey;
+    margin-left: 10%;
+    margin-right: 5%;
+    border-radius: 7px;
+
+}
+.detailsonproject {
+    color: rgb(37, 39, 35);
+}
+
+.containers2 {
+    background-color: lightgrey;
+    margin-left: 5%;
+    margin-right: 10%;
+    border-radius: 7px;
+
+}
+.descrip {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.quantoppic {
+    border-radius: 15px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+.apppics {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}

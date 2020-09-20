@@ -1,0 +1,20 @@
+.columnsedu {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-template-rows: 50% 50%;
+}
+.schoolpic {
+    border-radius: 5px;
+}
+.leftall {
+    text-align: left;
+    margin-left: 50px;
+}
+.alignmid {
+    margin-left: 100px;
+    color: darkslategrey;
+}
+.smallspace {
+    color: white;
+    margin-bottom: 20px;
+}

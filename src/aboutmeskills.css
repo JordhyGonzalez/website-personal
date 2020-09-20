@@ -1,0 +1,11 @@
+.rowforskills {
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+.codingpic {
+    border-radius: 5px;
+    align-items: right;
+}
+.getleft {
+    color: white;
+}

@@ -1,0 +1,24 @@
+
+li {
+    font-size: large;
+    list-style: none;
+    display: inline-block;
+    margin: 20px 80px;
+    color: black;
+}
+
+.changefont {
+    font-size: 20px;
+}
+
+.colsforconnect {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.rightc {
+    text-align: right;
+
+}
+.leftc {
+    text-align: left;
+}

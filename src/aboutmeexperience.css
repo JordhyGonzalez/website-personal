@@ -1,0 +1,27 @@
+.newclass {
+    color: black;
+}
+.expert {
+    display: grid;
+    grid-template-rows: 50% 50%;
+    grid-template-columns: 70% 30%;
+}
+.placeofexp {
+    text-align: left;
+    margin-left: 75px;
+}
+.locationofexp {
+    color: red;
+}
+.fwhccpic {
+    margin-top: 65px;
+}
+.timeline {
+    color: darkslategrey;
+    text-emphasis: line;
+    text-align: right;
+}
+.space {
+    color: white;
+    margin-bottom: 100px;
+}

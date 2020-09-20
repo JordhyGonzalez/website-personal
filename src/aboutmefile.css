@@ -1,0 +1,37 @@
+.about {
+    display: grid;
+    grid-template-rows: 20% 80%;
+}
+.headerontop {
+    text-align: left ;
+    padding-left: 100px;
+    background-color: white;
+    margin-bottom: 100px;
+}
+.picandtextcol {
+    display: grid;
+    grid-template-columns: 30% 70%;
+
+}
+.actualtextabout {
+    display: grid;
+    grid-template-rows: 20% 80%;
+
+}
+.para {
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 25%;
+    text-align: left;
+}
+.headerabovetext {
+    text-align: left;
+    margin-right: 25%;
+}
+.imgonleft {
+    margin-left: 30px;
+    border-radius: 5em;
+}
+.profpic {
+    border-radius: 5px;
+}
